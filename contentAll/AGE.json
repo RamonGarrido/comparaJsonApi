@@ -1,0 +1,28 @@
+{
+    "AGE": {
+        "AGE131": {},
+        "AGE352": {},
+        "AGE422": {},
+        "AGE421": {},
+        "AGE423": {},
+        "AGE85": {},
+        "AGE419": {},
+        "AGE87": {},
+        "AGE105": {},
+        "AGE420": {},
+        "AGE88": {},
+        "AGE84": {},
+        "AGE89": {},
+        "AGE_NONE": {},
+        "AGE": {
+            "StatusMessage": {
+                "catalog-api": "PID AGE not found",
+                "contentapi": "Pid AGE not found"
+            }
+        }
+    },
+    "url": {
+        "urlCatalog": "https://catalog-api.labs.gvp.telefonica.com/25/default/pt-br/content/",
+        "urlContent": "https://contentapi-preprod.labs.gvp.telefonica.com/25/default/pt-br/content/"
+    }
+}

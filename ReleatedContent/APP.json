@@ -1,0 +1,39 @@
+{
+    "APP": {
+        "APP117": {},
+        "APP136": {},
+        "APP120": {},
+        "APP115": {},
+        "APP119": {},
+        "APP118": {},
+        "APP116": {},
+        "APP196": {},
+        "APP138": {},
+        "APP163": {},
+        "APP145": {},
+        "APP197": {},
+        "APP32": {},
+        "APP33": {},
+        "APP34": {},
+        "APP35": {},
+        "APP36": {},
+        "APP37": {},
+        "APP401": {},
+        "APP400": {},
+        "APP443": {},
+        "APP529": {},
+        "APP530": {},
+        "APP531": {},
+        "APP532": {},
+        "APP534": {},
+        "APP533": {},
+        "APP93": {},
+        "APP535": {},
+        "APP": {},
+        "APP170": {}
+    },
+    "url": {
+        "urlCatalog": "https://catalog-api.labs.gvp.telefonica.com/25/default/pt-br/relatedcontents?sourcePids=RELEATEDCONTENT&relationTypes=AnyLevelChildren&contentTypes=CHA&limit=100&offset=0&includeImages=Cover%2cVideoFrame%2cBanner%2cIcon%2cBackground%2cLogo%2cRegistrationBanner%2cPaymentMethodImages%2cLandscapeCover%2cLandscapeArt%2cPortraitArt&orderBy=Pid&includeAttributes=CA_RequiresPin%2cCA_AnyLevelChildren%2cCA_DeviceTypes&CA_DeviceTypes=801",
+        "urlContent": "https://contentapi-preprod.labs.gvp.telefonica.com/25/default/pt-br/relatedcontents?sourcePids=RELEATEDCONTENT&relationTypes=AnyLevelChildren&contentTypes=CHA&limit=100&offset=0&includeImages=Cover%2cVideoFrame%2cBanner%2cIcon%2cBackground%2cLogo%2cRegistrationBanner%2cPaymentMethodImages%2cLandscapeCover%2cLandscapeArt%2cPortraitArt&orderBy=Pid&includeAttributes=CA_RequiresPin%2cCA_AnyLevelChildren%2cCA_DeviceTypes&CA_DeviceTypes=801"
+    }
+}

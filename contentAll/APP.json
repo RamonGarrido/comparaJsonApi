@@ -1,0 +1,44 @@
+{
+    "APP": {
+        "APP115": {},
+        "APP116": {},
+        "APP163": {},
+        "APP196": {},
+        "APP138": {},
+        "APP170": {},
+        "APP136": {},
+        "APP117": {},
+        "APP120": {},
+        "APP145": {},
+        "APP119": {},
+        "APP118": {},
+        "APP197": {},
+        "APP32": {},
+        "APP33": {},
+        "APP34": {},
+        "APP35": {},
+        "APP36": {},
+        "APP401": {},
+        "APP37": {},
+        "APP400": {},
+        "APP443": {},
+        "APP529": {},
+        "APP530": {},
+        "APP531": {},
+        "APP532": {},
+        "APP533": {},
+        "APP534": {},
+        "APP535": {},
+        "APP93": {},
+        "APP": {
+            "StatusMessage": {
+                "catalog-api": "PID APP not found",
+                "contentapi": "Pid APP not found"
+            }
+        }
+    },
+    "url": {
+        "urlCatalog": "https://catalog-api.labs.gvp.telefonica.com/25/default/pt-br/content/",
+        "urlContent": "https://contentapi-preprod.labs.gvp.telefonica.com/25/default/pt-br/content/"
+    }
+}
